@@ -52,8 +52,7 @@ Once the real-time kernel is installed, reboot the BeagleBone Black for the chan
 3. **Clone the Repository**: Clone the project repository to your BeagleBone Black to get the necessary project files.
    - In the terminal, navigate to the desired directory and run the following command:
      ```bash
-     git clone https://github.com/Rayen-selmi/Beaglebone-PWM-controll.git
-     cd Beaglebone-PWM-controll
+     git clone https://github.com/Rayen-selmi/Beaglebone-PWM-controll/Project.git
      ```
    - This will download the project files into a folder named `pwm-control-beaglebone`.
 
