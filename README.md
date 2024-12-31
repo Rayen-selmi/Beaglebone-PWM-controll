@@ -2,7 +2,7 @@
 
 ## Description
 
-This project enables real-time control of a DC motor via Pulse Width Modulation (PWM) on a **BeagleBone Black** board, managed through a simple and intuitive web interface. The web server allows users to adjust the **duty cycle** to control the motor's speed and performance.
+This project released by Rayen SELMI and Achref TELLILI, enables real-time control of a DC motor via Pulse Width Modulation (PWM) on a **BeagleBone Black** board, managed through a simple and intuitive web interface. The web server allows users to adjust the **duty cycle** to control the motor's speed and performance.
 
 The interface communicates with the BeagleBone Black through **WebSockets**, sending PWM values that are used to adjust the motor's speed in real time.
 
